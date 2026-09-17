@@ -1,12 +1,659 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Hanyang Canvas Attendance Calendar//ko//
+PRODID:-//Hanyang Canvas Combined Calendar//ko//
+BEGIN:VEVENT
+SUMMARY:(응시 필수) 특강 1. 왜 대학에 사회봉사 교과목이 
+ 필요한가 - 퀴즈 [202620HY15550_사회봉사]
+DTSTART;VALUE=DATE:20260826T000000
+DTEND;VALUE=DATE:20260826T000000
+DTSTAMP:20260814T010000Z
+UID:event-assignment-2799148
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_211652
+ &month=08&year=2026#assignment_2799148
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Review 1 Insertion sort [202620HY11961_알고리즘및문제해결
+ 기법]
+DTSTART;VALUE=DATE:20260913T000000
+DTEND;VALUE=DATE:20260913T000000
+DTSTAMP:20260913T122000Z
+UID:event-assignment-2801532
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Please solve the questions in the attachment and upload the su
+ bmission. [Review 1 Insertion sort.pdf] (https://learning.hanyang.ac.kr/co
+ urses/212333/files/11541630/download?wrap=1) 
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212333
+ &month=09&year=2026#assignment_2801532
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Please solve the questions in the at
+ tachment and upload the submission. <a class="instructure_file_link instru
+ cture_scribd_file" title="Review 1 Insertion sort.pdf" href="https://learn
+ ing.hanyang.ac.kr/courses/212333/files/11541630/download?wrap=1" target="_
+ blank" data-canvas-previewable="true" data-api-endpoint="https://learning.
+ hanyang.ac.kr/api/v1/courses/212333/files/11541630" data-api-returntype="F
+ ile">Review 1 Insertion sort.pdf</a> </span></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Review 2 Merge sort [202620HY11961_알고리즘및문제해결기
+ 법]
+DTSTART;VALUE=DATE:20260913T000000
+DTEND;VALUE=DATE:20260913T000000
+DTSTAMP:20260903T115400Z
+UID:event-assignment-2801533
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Please solve the questions in the attachment and upload the su
+ bmission. [Review 2 Merge sort.pdf] (https://learning.hanyang.ac.kr/course
+ s/212333/files/11541638/download?wrap=1) 
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212333
+ &month=09&year=2026#assignment_2801533
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Please solve the questions in the at
+ tachment and upload the submission. <a class="instructure_file_link instru
+ cture_scribd_file" title="Review 2 Merge sort.pdf" href="https://learning.
+ hanyang.ac.kr/courses/212333/files/11541638/download?wrap=1" target="_blan
+ k" data-canvas-previewable="true" data-api-endpoint="https://learning.hany
+ ang.ac.kr/api/v1/courses/212333/files/11541638" data-api-returntype="File"
+ >Review 2 Merge sort.pdf</a> </span></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Comprehension Check [202620HY11960_데이터베이스시스템및
+ 응용]
+DTSTART;VALUE=DATE:20260913T000000
+DTEND;VALUE=DATE:20260913T000000
+DTSTAMP:20260902T034100Z
+UID:event-assignment-2801942
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:This check does not affect your exam grade\, and you may retak
+ e it. Its purpose is to confirm you followed the orientation lecture.
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212325
+ &month=09&year=2026#assignment_2801942
+X-ALT-DESC;FMTTYPE=text/html:<p>This check does not affect your exam grade
+ \, and you may retake it. Its purpose is to confirm you followed the orien
+ tation lecture.</p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Review 3 Asymptotic notations [202620HY11961_알고리즘및문제
+ 해결기법]
+DTSTART;VALUE=DATE:20260920T000000
+DTEND;VALUE=DATE:20260920T000000
+DTSTAMP:20260906T045700Z
+UID:event-assignment-2801534
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Please solve the questions in the attachment and upload the su
+ bmission. [Review 3 Asymptotic notations.pdf] (https://learning.hanyang.ac
+ .kr/courses/212333/files/11541637/download?wrap=1) 
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212333
+ &month=09&year=2026#assignment_2801534
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Please solve the questions in the at
+ tachment and upload the submission. <a class="instructure_file_link instru
+ cture_scribd_file" title="Review 3 Asymptotic notations.pdf" href="https:/
+ /learning.hanyang.ac.kr/courses/212333/files/11541637/download?wrap=1" tar
+ get="_blank" data-canvas-previewable="true" data-api-endpoint="https://lea
+ rning.hanyang.ac.kr/api/v1/courses/212333/files/11541637" data-api-returnt
+ ype="File">Review 3 Asymptotic notations.pdf</a> </span></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Review 4-1 Divide-and-Conquer [202620HY11961_알고리즘및문제
+ 해결기법]
+DTSTART;VALUE=DATE:20260920T000000
+DTEND;VALUE=DATE:20260920T000000
+DTSTAMP:20260827T043300Z
+UID:event-assignment-2801535
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Please solve the questions in the attachment and upload the su
+ bmission. [Review 4-1 Divide-and-Conquer.pdf] (https://learning.hanyang.ac
+ .kr/courses/212333/files/11541631/download?wrap=1)
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212333
+ &month=09&year=2026#assignment_2801535
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Please solve the questions in the at
+ tachment and upload the submission. </span><a class="instructure_file_link
+  instructure_scribd_file" title="Review 4-1 Divide-and-Conquer.pdf" href="
+ https://learning.hanyang.ac.kr/courses/212333/files/11541631/download?wrap
+ =1" target="_blank" data-canvas-previewable="true" data-api-endpoint="http
+ s://learning.hanyang.ac.kr/api/v1/courses/212333/files/11541631" data-api-
+ returntype="File">Review 4-1 Divide-and-Conquer.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Review 4-2 Divide-and-Conquer [202620HY11961_알고리즘및문제
+ 해결기법]
+DTSTART;VALUE=DATE:20260920T000000
+DTEND;VALUE=DATE:20260920T000000
+DTSTAMP:20260827T043700Z
+UID:event-assignment-2801536
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Please solve the questions in the attachment and upload the su
+ bmission. [Review 4-2 Divide-and-Conquer-1.pdf] (https://learning.hanyang.
+ ac.kr/courses/212333/files/11541639/download?wrap=1) 
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212333
+ &month=09&year=2026#assignment_2801536
+X-ALT-DESC;FMTTYPE=text/html:<p>Please solve the questions in the attachme
+ nt and upload the submission. <a class="instructure_file_link instructure_
+ scribd_file" title="Review 4-2 Divide-and-Conquer-1.pdf" href="https://lea
+ rning.hanyang.ac.kr/courses/212333/files/11541639/download?wrap=1" target=
+ "_blank" data-canvas-previewable="true" data-api-endpoint="https://learnin
+ g.hanyang.ac.kr/api/v1/courses/212333/files/11541639" data-api-returntype=
+ "File">Review 4-2 Divide-and-Conquer-1.pdf</a> </p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Review 5 Heapsort [202620HY11961_알고리즘및문제해결기법
+ ]
+DTSTART;VALUE=DATE:20260920T000000
+DTEND;VALUE=DATE:20260920T000000
+DTSTAMP:20260827T043700Z
+UID:event-assignment-2801537
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Please solve the questions in the attachment and upload the su
+ bmission. [Review 5 Heapsort.pdf] (https://learning.hanyang.ac.kr/courses/
+ 212333/files/11541649/download?wrap=1) 
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212333
+ &month=09&year=2026#assignment_2801537
+X-ALT-DESC;FMTTYPE=text/html:<p>Please solve the questions in the attachme
+ nt and upload the submission. <a class="instructure_file_link instructure_
+ scribd_file" title="Review 5 Heapsort.pdf" href="https://learning.hanyang.
+ ac.kr/courses/212333/files/11541649/download?wrap=1" target="_blank" data-
+ canvas-previewable="true" data-api-endpoint="https://learning.hanyang.ac.k
+ r/api/v1/courses/212333/files/11541649" data-api-returntype="File">Review 
+ 5 Heapsort.pdf</a> </p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Review 6 Quicksort [202620HY11961_알고리즘및문제해결기
+ 법]
+DTSTART;VALUE=DATE:20260927T000000
+DTEND;VALUE=DATE:20260927T000000
+DTSTAMP:20260827T045300Z
+UID:event-assignment-2801538
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Please solve the questions in the attachment and upload the su
+ bmission.[Review 6 Quicksort.pdf] (https://learning.hanyang.ac.kr/courses/
+ 212333/files/11541651/download?wrap=1) 
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212333
+ &month=09&year=2026#assignment_2801538
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Please solve the questions in the at
+ tachment and upload the submission.<a class="instructure_file_link instruc
+ ture_scribd_file" title="Review 6 Quicksort.pdf" href="https://learning.ha
+ nyang.ac.kr/courses/212333/files/11541651/download?wrap=1" target="_blank"
+  data-canvas-previewable="true" data-api-endpoint="https://learning.hanyan
+ g.ac.kr/api/v1/courses/212333/files/11541651" data-api-returntype="File">R
+ eview 6 Quicksort.pdf</a> </span></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data structure review [202620HY11961_알고리즘및문제해결
+ 기법]
+DTSTART;VALUE=DATE:20261004T000000
+DTEND;VALUE=DATE:20261004T000000
+DTSTAMP:20260827T045500Z
+UID:event-assignment-2801518
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Please solve the questions in the attachment and upload the su
+ bmission. [Data structure review.pdf] (https://learning.hanyang.ac.kr/cour
+ ses/212333/files/11541628/download?wrap=1) 
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212333
+ &month=10&year=2026#assignment_2801518
+X-ALT-DESC;FMTTYPE=text/html:<div id="message-list_1756196305.829809" clas
+ s="c-virtual_list__item" role="listitem" data-qa="virtual-list-item" data-
+ item-key="1756196305.829809">\n<div class="c-message_kit__background c-mes
+ sage_kit__background--hovered p-message_pane_message__message c-message_ki
+ t__message" role="presentation" data-qa="message_container" data-qa-unproc
+ essed="false" data-qa-placeholder="false">\n<div class="c-message_kit__hov
+ er c-message_kit__hover--hovered" role="document" data-qa-hover="true">\n<
+ div class="c-message_kit__actions c-message_kit__actions--default">\n<div 
+ class="c-message_kit__gutter">\n<div class="c-message_kit__gutter__right" 
+ role="presentation" data-qa="message_content">\n<div class="c-message_kit_
+ _blocks c-message_kit__blocks--rich_text">\n<div class="c-message__message
+ _blocks c-message__message_blocks--rich_text" data-qa="message-text">\n<di
+ v class="p-block_kit_renderer" data-qa="block-kit-renderer">\n<div class="
+ p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--f
+ irst">\n<div class="p-rich_text_block">\n<div class="p-rich_text_section">
+ Please solve the questions in the attachment and upload the submission. <a
+  class="instructure_file_link instructure_scribd_file" title="Data structu
+ re review.pdf" href="https://learning.hanyang.ac.kr/courses/212333/files/1
+ 1541628/download?wrap=1" target="_blank" data-canvas-previewable="true" da
+ ta-api-endpoint="https://learning.hanyang.ac.kr/api/v1/courses/212333/file
+ s/11541628" data-api-returntype="File">Data structure review.pdf</a> </di
+ v>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>
+ \n</div>\n</div>\n<div id="message-list_bottomSpacer" class="c-virtual_lis
+ t__item" role="presentation" data-qa="virtual-list-item" data-item-key="bo
+ ttomSpacer"></div>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Review 7 Counting & Radixsort [202620HY11961_알고리즘및문제
+ 해결기법]
+DTSTART;VALUE=DATE:20261004T000000
+DTEND;VALUE=DATE:20261004T000000
+DTSTAMP:20260827T045400Z
+UID:event-assignment-2801539
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Please solve the questions in the attachment and upload the su
+ bmission. [Review 7 Counting & Radixsort.pdf] (https://learning.hanyang.ac
+ .kr/courses/212333/files/11541644/download?wrap=1) 
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212333
+ &month=10&year=2026#assignment_2801539
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Please solve the questions in the at
+ tachment and upload the submission. <a class="instructure_file_link instru
+ cture_scribd_file" title="Review 7 Counting &amp\; Radixsort.pdf" href="ht
+ tps://learning.hanyang.ac.kr/courses/212333/files/11541644/download?wrap=1
+ " target="_blank" data-canvas-previewable="true" data-api-endpoint="https:
+ //learning.hanyang.ac.kr/api/v1/courses/212333/files/11541644" data-api-re
+ turntype="File">Review 7 Counting &amp\; Radixsort.pdf</a> </span></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Review 8-1 Dynamic Programming [202620HY11961_알고리즘및문
+ 제해결기법]
+DTSTART;VALUE=DATE:20261004T000000
+DTEND;VALUE=DATE:20261004T000000
+DTSTAMP:20260827T045600Z
+UID:event-assignment-2801540
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Please solve the questions in the attachment and upload the su
+ bmission. [Review 8-1 Dynamic Programming.pdf] (https://learning.hanyang.a
+ c.kr/courses/212333/files/11541633/download?wrap=1) 
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212333
+ &month=10&year=2026#assignment_2801540
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Please solve the questions in the at
+ tachment and upload the submission. <a class="instructure_file_link instru
+ cture_scribd_file" title="Review 8-1 Dynamic Programming.pdf" href="https:
+ //learning.hanyang.ac.kr/courses/212333/files/11541633/download?wrap=1" ta
+ rget="_blank" data-canvas-previewable="true" data-api-endpoint="https://le
+ arning.hanyang.ac.kr/api/v1/courses/212333/files/11541633" data-api-return
+ type="File">Review 8-1 Dynamic Programming.pdf</a> </span></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Review 8-2 Dynamic Programming [202620HY11961_알고리즘및문
+ 제해결기법]
+DTSTART;VALUE=DATE:20261011T000000
+DTEND;VALUE=DATE:20261011T000000
+DTSTAMP:20260827T045800Z
+UID:event-assignment-2801541
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Please solve the questions in the attachment and upload the su
+ bmission.[Review 8-2 Dynamic Programming.pdf] (https://learning.hanyang.ac
+ .kr/courses/212333/files/11541648/download?wrap=1) 
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212333
+ &month=10&year=2026#assignment_2801541
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Please solve the questions in the at
+ tachment and upload the submission.<a class="instructure_file_link instruc
+ ture_scribd_file" title="Review 8-2 Dynamic Programming.pdf" href="https:/
+ /learning.hanyang.ac.kr/courses/212333/files/11541648/download?wrap=1" tar
+ get="_blank" data-canvas-previewable="true" data-api-endpoint="https://lea
+ rning.hanyang.ac.kr/api/v1/courses/212333/files/11541648" data-api-returnt
+ ype="File">Review 8-2 Dynamic Programming.pdf</a> </span></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Review 8-3 Dynamic Programming [202620HY11961_알고리즘및문
+ 제해결기법]
+DTSTART;VALUE=DATE:20261011T000000
+DTEND;VALUE=DATE:20261011T000000
+DTSTAMP:20260827T045900Z
+UID:event-assignment-2801542
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Please solve the questions in the attachment and upload the su
+ bmission.[Review 8-3 Dynamic Programming.pdf] (https://learning.hanyang.ac
+ .kr/courses/212333/files/11541653/download?wrap=1) 
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212333
+ &month=10&year=2026#assignment_2801542
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Please solve the questions in the at
+ tachment and upload the submission.<a class="instructure_file_link instruc
+ ture_scribd_file" title="Review 8-3 Dynamic Programming.pdf" href="https:/
+ /learning.hanyang.ac.kr/courses/212333/files/11541653/download?wrap=1" tar
+ get="_blank" data-canvas-previewable="true" data-api-endpoint="https://lea
+ rning.hanyang.ac.kr/api/v1/courses/212333/files/11541653" data-api-returnt
+ ype="File">Review 8-3 Dynamic Programming.pdf</a> </span></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Review 8-4 Dynamic Programming [202620HY11961_알고리즘및문
+ 제해결기법]
+DTSTART;VALUE=DATE:20261011T000000
+DTEND;VALUE=DATE:20261011T000000
+DTSTAMP:20260827T050000Z
+UID:event-assignment-2801543
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Please solve the questions in the attachment and upload the su
+ bmission.[Review 8-4 Dynamic Programming.pdf] (https://learning.hanyang.ac
+ .kr/courses/212333/files/11541625/download?wrap=1) 
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212333
+ &month=10&year=2026#assignment_2801543
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Please solve the questions in the at
+ tachment and upload the submission.<a class="instructure_file_link instruc
+ ture_scribd_file" title="Review 8-4 Dynamic Programming.pdf" href="https:/
+ /learning.hanyang.ac.kr/courses/212333/files/11541625/download?wrap=1" tar
+ get="_blank" data-canvas-previewable="true" data-api-endpoint="https://lea
+ rning.hanyang.ac.kr/api/v1/courses/212333/files/11541625" data-api-returnt
+ ype="File">Review 8-4 Dynamic Programming.pdf</a> </span></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Review 8-5 Dynamic Programming [202620HY11961_알고리즘및문
+ 제해결기법]
+DTSTART;VALUE=DATE:20261011T000000
+DTEND;VALUE=DATE:20261011T000000
+DTSTAMP:20260827T050000Z
+UID:event-assignment-2801544
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Please solve the questions in the attachment and upload the su
+ bmission.[Review 8-5 Dynamic Programming.pdf] (https://learning.hanyang.ac
+ .kr/courses/212333/files/11541622/download?wrap=1) 
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212333
+ &month=10&year=2026#assignment_2801544
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Please solve the questions in the at
+ tachment and upload the submission.<a class="instructure_file_link instruc
+ ture_scribd_file" title="Review 8-5 Dynamic Programming.pdf" href="https:/
+ /learning.hanyang.ac.kr/courses/212333/files/11541622/download?wrap=1" tar
+ get="_blank" data-canvas-previewable="true" data-api-endpoint="https://lea
+ rning.hanyang.ac.kr/api/v1/courses/212333/files/11541622" data-api-returnt
+ ype="File">Review 8-5 Dynamic Programming.pdf</a> </span></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Review 9-1 greedy algorithms [202620HY11961_알고리즘및문제
+ 해결기법]
+DTSTART;VALUE=DATE:20261018T000000
+DTEND;VALUE=DATE:20261018T000000
+DTSTAMP:20260827T050300Z
+UID:event-assignment-2801545
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Please solve the questions in the attachment and upload the su
+ bmission.[Review 9-1 greedy algorithms.pdf] (https://learning.hanyang.ac.k
+ r/courses/212333/files/11541632/download?wrap=1) 
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212333
+ &month=10&year=2026#assignment_2801545
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Please solve the questions in the at
+ tachment and upload the submission.<a class="instructure_file_link instruc
+ ture_scribd_file" title="Review 9-1 greedy algorithms.pdf" href="https://l
+ earning.hanyang.ac.kr/courses/212333/files/11541632/download?wrap=1" targe
+ t="_blank" data-canvas-previewable="true" data-api-endpoint="https://learn
+ ing.hanyang.ac.kr/api/v1/courses/212333/files/11541632" data-api-returntyp
+ e="File">Review 9-1 greedy algorithms.pdf</a> </span></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Review 9-2 greedy algorithms [202620HY11961_알고리즘및문제
+ 해결기법]
+DTSTART;VALUE=DATE:20261018T000000
+DTEND;VALUE=DATE:20261018T000000
+DTSTAMP:20260827T071900Z
+UID:event-assignment-2801546
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Please solve the questions in the attachment and upload the su
+ bmission.[Review 9-2 greedy algorithms.pdf] (https://learning.hanyang.ac.k
+ r/courses/212333/files/11541629/download?wrap=1) 
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212333
+ &month=10&year=2026#assignment_2801546
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Please solve the questions in the at
+ tachment and upload the submission.<a class="instructure_file_link instruc
+ ture_scribd_file" title="Review 9-2 greedy algorithms.pdf" href="https://l
+ earning.hanyang.ac.kr/courses/212333/files/11541629/download?wrap=1" targe
+ t="_blank" data-canvas-previewable="true" data-api-endpoint="https://learn
+ ing.hanyang.ac.kr/api/v1/courses/212333/files/11541629" data-api-returntyp
+ e="File">Review 9-2 greedy algorithms.pdf</a> </span></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Review 10 Amortized analysis [202620HY11961_알고리즘및문제
+ 해결기법]
+DTSTART;VALUE=DATE:20261101T000000
+DTEND;VALUE=DATE:20261101T000000
+DTSTAMP:20260827T050900Z
+UID:event-assignment-2801522
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Please solve the questions in the attachment and upload the su
+ bmission.[Review 10 Amortized analysis.pdf] (https://learning.hanyang.ac.k
+ r/courses/212333/files/11541623/download?wrap=1) 
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212333
+ &month=11&year=2026#assignment_2801522
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Please solve the questions in the at
+ tachment and upload the submission.<a class="instructure_file_link instruc
+ ture_scribd_file" title="Review 10 Amortized analysis.pdf" href="https://l
+ earning.hanyang.ac.kr/courses/212333/files/11541623/download?wrap=1" targe
+ t="_blank" data-canvas-previewable="true" data-api-endpoint="https://learn
+ ing.hanyang.ac.kr/api/v1/courses/212333/files/11541623" data-api-returntyp
+ e="File">Review 10 Amortized analysis.pdf</a> </span></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Review 10-2 Amortized analysis [202620HY11961_알고리즘및문
+ 제해결기법]
+DTSTART;VALUE=DATE:20261101T000000
+DTEND;VALUE=DATE:20261101T000000
+DTSTAMP:20260827T050900Z
+UID:event-assignment-2801520
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Please solve the questions in the attachment and upload the su
+ bmission.[Review 10-2 Amortized analysis.pdf] (https://learning.hanyang.ac
+ .kr/courses/212333/files/11541626/download?wrap=1) 
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212333
+ &month=11&year=2026#assignment_2801520
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Please solve the questions in the at
+ tachment and upload the submission.<a class="instructure_file_link instruc
+ ture_scribd_file" title="Review 10-2 Amortized analysis.pdf" href="https:/
+ /learning.hanyang.ac.kr/courses/212333/files/11541626/download?wrap=1" tar
+ get="_blank" data-canvas-previewable="true" data-api-endpoint="https://lea
+ rning.hanyang.ac.kr/api/v1/courses/212333/files/11541626" data-api-returnt
+ ype="File">Review 10-2 Amortized analysis.pdf</a> </span></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Review 10-3 Amortized analysis [202620HY11961_알고리즘및문
+ 제해결기법]
+DTSTART;VALUE=DATE:20261108T000000
+DTEND;VALUE=DATE:20261108T000000
+DTSTAMP:20260827T051200Z
+UID:event-assignment-2801521
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Please solve the questions in the attachment and upload the su
+ bmission.[Review 10-3 Amortized analysis.pdf] (https://learning.hanyang.ac
+ .kr/courses/212333/files/11541635/download?wrap=1)
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212333
+ &month=11&year=2026#assignment_2801521
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Please solve the questions in the at
+ tachment and upload the submission.</span><a class="instructure_file_link 
+ instructure_scribd_file" title="Review 10-3 Amortized analysis.pdf" href="
+ https://learning.hanyang.ac.kr/courses/212333/files/11541635/download?wrap
+ =1" target="_blank" data-canvas-previewable="true" data-api-endpoint="http
+ s://learning.hanyang.ac.kr/api/v1/courses/212333/files/11541635" data-api-
+ returntype="File">Review 10-3 Amortized analysis.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Review 12-1 Elementary Graph Algorithms [202620HY11961_알고리
+ 즘및문제해결기법]
+DTSTART;VALUE=DATE:20261108T000000
+DTEND;VALUE=DATE:20261108T000000
+DTSTAMP:20260827T051300Z
+UID:event-assignment-2801523
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Please solve the questions in the attachment and upload the su
+ bmission.[Review 12-1 Elementary Graph Algorithms.pdf] (https://learning.h
+ anyang.ac.kr/courses/212333/files/11541652/download?wrap=1) 
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212333
+ &month=11&year=2026#assignment_2801523
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Please solve the questions in the at
+ tachment and upload the submission.<a class="instructure_file_link instruc
+ ture_scribd_file" title="Review 12-1 Elementary Graph Algorithms.pdf" href
+ ="https://learning.hanyang.ac.kr/courses/212333/files/11541652/download?wr
+ ap=1" target="_blank" data-canvas-previewable="true" data-api-endpoint="ht
+ tps://learning.hanyang.ac.kr/api/v1/courses/212333/files/11541652" data-ap
+ i-returntype="File">Review 12-1 Elementary Graph Algorithms.pdf</a> </spa
+ n></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Review 12-2 Elementary Graph Algorithms [202620HY11961_알고리
+ 즘및문제해결기법]
+DTSTART;VALUE=DATE:20261115T000000
+DTEND;VALUE=DATE:20261115T000000
+DTSTAMP:20260827T051500Z
+UID:event-assignment-2801524
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Please solve the questions in the attachment and upload the su
+ bmission.[Review 12-2 Elementary Graph Algorithms.pdf] (https://learning.h
+ anyang.ac.kr/courses/212333/files/11541642/download?wrap=1) 
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212333
+ &month=11&year=2026#assignment_2801524
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Please solve the questions in the at
+ tachment and upload the submission.<a class="instructure_file_link instruc
+ ture_scribd_file" title="Review 12-2 Elementary Graph Algorithms.pdf" href
+ ="https://learning.hanyang.ac.kr/courses/212333/files/11541642/download?wr
+ ap=1" target="_blank" data-canvas-previewable="true" data-api-endpoint="ht
+ tps://learning.hanyang.ac.kr/api/v1/courses/212333/files/11541642" data-ap
+ i-returntype="File">Review 12-2 Elementary Graph Algorithms.pdf</a> </spa
+ n></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Review 12-3 Elementary Graph Algorithms [202620HY11961_알고리
+ 즘및문제해결기법]
+DTSTART;VALUE=DATE:20261115T000000
+DTEND;VALUE=DATE:20261115T000000
+DTSTAMP:20260827T051500Z
+UID:event-assignment-2801525
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Please solve the questions in the attachment and upload the su
+ bmission.[Review 12-3 Elementary Graph Algorithms.pdf] (https://learning.h
+ anyang.ac.kr/courses/212333/files/11541641/download?wrap=1) 
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212333
+ &month=11&year=2026#assignment_2801525
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Please solve the questions in the at
+ tachment and upload the submission.<a class="instructure_file_link instruc
+ ture_scribd_file" title="Review 12-3 Elementary Graph Algorithms.pdf" href
+ ="https://learning.hanyang.ac.kr/courses/212333/files/11541641/download?wr
+ ap=1" target="_blank" data-canvas-previewable="true" data-api-endpoint="ht
+ tps://learning.hanyang.ac.kr/api/v1/courses/212333/files/11541641" data-ap
+ i-returntype="File">Review 12-3 Elementary Graph Algorithms.pdf</a> </spa
+ n></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Review 12-4 Elementary Graph Algorithms [202620HY11961_알고리
+ 즘및문제해결기법]
+DTSTART;VALUE=DATE:20261122T000000
+DTEND;VALUE=DATE:20261122T000000
+DTSTAMP:20260827T051900Z
+UID:event-assignment-2801526
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Please solve the questions in the attachment and upload the su
+ bmission. [Review 12-4 Elementary Graph Algorithms.pdf] (https://learning.
+ hanyang.ac.kr/courses/212333/files/11541643/download?wrap=1) \n\n 
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212333
+ &month=11&year=2026#assignment_2801526
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Please solve the questions in the at
+ tachment and upload the submission. <a class="instructure_file_link instru
+ cture_scribd_file" title="Review 12-4 Elementary Graph Algorithms.pdf" hre
+ f="https://learning.hanyang.ac.kr/courses/212333/files/11541643/download?w
+ rap=1" target="_blank" data-canvas-previewable="true" data-api-endpoint="h
+ ttps://learning.hanyang.ac.kr/api/v1/courses/212333/files/11541643" data-a
+ pi-returntype="File">Review 12-4 Elementary Graph Algorithms.pdf</a> </sp
+ an></p>\n<p> </p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Review 13  Disjoint Sets [202620HY11961_알고리즘및문제해
+ 결기법]
+DTSTART;VALUE=DATE:20261122T000000
+DTEND;VALUE=DATE:20261122T000000
+DTSTAMP:20260827T052000Z
+UID:event-assignment-2801527
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Please solve the questions in the attachment and upload the su
+ bmission.[Review 13 Disjoint Sets.pdf] (https://learning.hanyang.ac.kr/cou
+ rses/212333/files/11541627/download?wrap=1) 
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212333
+ &month=11&year=2026#assignment_2801527
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Please solve the questions in the at
+ tachment and upload the submission.<a class="instructure_file_link instruc
+ ture_scribd_file" title="Review 13  Disjoint Sets.pdf" href="https://learn
+ ing.hanyang.ac.kr/courses/212333/files/11541627/download?wrap=1" target="_
+ blank" data-canvas-previewable="true" data-api-endpoint="https://learning.
+ hanyang.ac.kr/api/v1/courses/212333/files/11541627" data-api-returntype="F
+ ile">Review 13 Disjoint Sets.pdf</a> </span></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Review 14. Minimum Spanning Trees [202620HY11961_알고리즘및
+ 문제해결기법]
+DTSTART;VALUE=DATE:20261129T000000
+DTEND;VALUE=DATE:20261129T000000
+DTSTAMP:20260827T052100Z
+UID:event-assignment-2801529
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Please solve the questions in the attachment and upload the su
+ bmission.[Review 14. Minimum Spanning Trees.pdf] (https://learning.hanyang
+ .ac.kr/courses/212333/files/11541647/download?wrap=1) 
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212333
+ &month=11&year=2026#assignment_2801529
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Please solve the questions in the at
+ tachment and upload the submission.<a class="instructure_file_link instruc
+ ture_scribd_file" title="Review 14. Minimum Spanning Trees.pdf" href="http
+ s://learning.hanyang.ac.kr/courses/212333/files/11541647/download?wrap=1" 
+ target="_blank" data-canvas-previewable="true" data-api-endpoint="https://
+ learning.hanyang.ac.kr/api/v1/courses/212333/files/11541647" data-api-retu
+ rntype="File">Review 14. Minimum Spanning Trees.pdf</a> </span></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Review 15 shortest path [202620HY11961_알고리즘및문제해결
+ 기법]
+DTSTART;VALUE=DATE:20261129T000000
+DTEND;VALUE=DATE:20261129T000000
+DTSTAMP:20260827T052100Z
+UID:event-assignment-2801530
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Please solve the questions in the attachment and upload the su
+ bmission.[Review 15 shortest path.pdf] (https://learning.hanyang.ac.kr/cou
+ rses/212333/files/11541646/download?wrap=1) 
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212333
+ &month=11&year=2026#assignment_2801530
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Please solve the questions in the at
+ tachment and upload the submission.<a class="instructure_file_link instruc
+ ture_scribd_file" title="Review 15 shortest path.pdf" href="https://learni
+ ng.hanyang.ac.kr/courses/212333/files/11541646/download?wrap=1" target="_b
+ lank" data-canvas-previewable="true" data-api-endpoint="https://learning.h
+ anyang.ac.kr/api/v1/courses/212333/files/11541646" data-api-returntype="Fi
+ le">Review 15 shortest path.pdf</a> </span></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Review 16 Floyd-warshall [202620HY11961_알고리즘및문제해
+ 결기법]
+DTSTART;VALUE=DATE:20261206T000000
+DTEND;VALUE=DATE:20261206T000000
+DTSTAMP:20260827T052300Z
+UID:event-assignment-2801531
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Please solve the questions in the attachment and upload the su
+ bmission.[Review 16 Floyd-warshall.pdf] (https://learning.hanyang.ac.kr/co
+ urses/212333/files/11541640/download?wrap=1) 
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212333
+ &month=12&year=2026#assignment_2801531
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Please solve the questions in the at
+ tachment and upload the submission.<a class="instructure_file_link instruc
+ ture_scribd_file" title="Review 16 Floyd-warshall.pdf" href="https://learn
+ ing.hanyang.ac.kr/courses/212333/files/11541640/download?wrap=1" target="_
+ blank" data-canvas-previewable="true" data-api-endpoint="https://learning.
+ hanyang.ac.kr/api/v1/courses/212333/files/11541640" data-api-returntype="F
+ ile">Review 16 Floyd-warshall.pdf</a> </span></p>
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 1 Inserti
  on sort (출석/마감)
 DTSTART:20260913T145900Z
 DTEND:20260913T145900Z
-DTSTAMP:20260917T122836Z
+DTSTAMP:20260917T130704Z
 UID:canvas-item-8580408@hanyang.ac.kr
 DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
  차/모듈: 1주차\n항목: Review 1 Insertion sort\nURL: https://learnin
@@ -17,7 +664,7 @@ SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 2 Merge s
  ort (출석/마감)
 DTSTART:20260913T145900Z
 DTEND:20260913T145900Z
-DTSTAMP:20260917T122836Z
+DTSTAMP:20260917T130705Z
 UID:canvas-item-8580410@hanyang.ac.kr
 DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
  차/모듈: 1주차\n항목: Review 2 Merge sort\nURL: https://learning.ha
@@ -28,7 +675,7 @@ SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 3 Asympto
  tic notations (출석/마감)
 DTSTART:20260920T145900Z
 DTEND:20260920T145900Z
-DTSTAMP:20260917T122838Z
+DTSTAMP:20260917T130706Z
 UID:canvas-item-8580412@hanyang.ac.kr
 DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
  차/모듈: 2주차\n항목: Review 3 Asymptotic notations\nURL: https://l
@@ -39,7 +686,7 @@ SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 4-1 Divid
  e-and-Conquer (출석/마감)
 DTSTART:20260920T145900Z
 DTEND:20260920T145900Z
-DTSTAMP:20260917T122839Z
+DTSTAMP:20260917T130707Z
 UID:canvas-item-8580414@hanyang.ac.kr
 DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
  차/모듈: 2주차\n항목: Review 4-1 Divide-and-Conquer\nURL: https://l
@@ -50,7 +697,7 @@ SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 4-2 Divid
  e-and-Conquer (출석/마감)
 DTSTART:20260920T145900Z
 DTEND:20260920T145900Z
-DTSTAMP:20260917T122841Z
+DTSTAMP:20260917T130709Z
 UID:canvas-item-8580416@hanyang.ac.kr
 DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
  차/모듈: 3주차\n항목: Review 4-2 Divide-and-Conquer\nURL: https://l
@@ -61,7 +708,7 @@ SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 5 Heapsor
  t (출석/마감)
 DTSTART:20260920T145900Z
 DTEND:20260920T145900Z
-DTSTAMP:20260917T122841Z
+DTSTAMP:20260917T130709Z
 UID:canvas-item-8580418@hanyang.ac.kr
 DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
  차/모듈: 3주차\n항목: Review 5 Heapsort\nURL: https://learning.hany
@@ -72,7 +719,7 @@ SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 6 Quickso
  rt (출석/마감)
 DTSTART:20260927T145900Z
 DTEND:20260927T145900Z
-DTSTAMP:20260917T122843Z
+DTSTAMP:20260917T130711Z
 UID:canvas-item-8580420@hanyang.ac.kr
 DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
  차/모듈: 4주차\n항목: Review 6 Quicksort\nURL: https://learning.han
@@ -83,7 +730,7 @@ SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 7 Countin
  g & Radixsort (출석/마감)
 DTSTART:20261004T145900Z
 DTEND:20261004T145900Z
-DTSTAMP:20260917T122844Z
+DTSTAMP:20260917T130712Z
 UID:canvas-item-8580423@hanyang.ac.kr
 DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
  차/모듈: 5주차\n항목: Review 7 Counting & Radixsort\nURL: https://l
@@ -94,7 +741,7 @@ SUMMARY:[202620HY11961_알고리즘및문제해결기법] Data structure r
  eview (출석/마감)
 DTSTART:20261004T145900Z
 DTEND:20261004T145900Z
-DTSTAMP:20260917T122845Z
+DTSTAMP:20260917T130713Z
 UID:canvas-item-8580424@hanyang.ac.kr
 DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
  차/모듈: 5주차\n항목: Data structure review\nURL: https://learning.
@@ -105,7 +752,7 @@ SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 8-1 Dynam
  ic Programming (출석/마감)
 DTSTART:20261004T145900Z
 DTEND:20261004T145900Z
-DTSTAMP:20260917T122846Z
+DTSTAMP:20260917T130714Z
 UID:canvas-item-8580426@hanyang.ac.kr
 DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
  차/모듈: 5주차\n항목: Review 8-1 Dynamic Programming\nURL: https://
@@ -116,7 +763,7 @@ SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 8-2 Dynam
  ic Programming (출석/마감)
 DTSTART:20261011T145900Z
 DTEND:20261011T145900Z
-DTSTAMP:20260917T122848Z
+DTSTAMP:20260917T130716Z
 UID:canvas-item-8580428@hanyang.ac.kr
 DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
  차/모듈: 6주차\n항목: Review 8-2 Dynamic Programming\nURL: https://
@@ -127,7 +774,7 @@ SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 8-3 Dynam
  ic Programming (출석/마감)
 DTSTART:20261011T145900Z
 DTEND:20261011T145900Z
-DTSTAMP:20260917T122849Z
+DTSTAMP:20260917T130716Z
 UID:canvas-item-8580429@hanyang.ac.kr
 DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
  차/모듈: 6주차\n항목: Review 8-3 Dynamic Programming\nURL: https://
@@ -138,7 +785,7 @@ SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 8-4 Dynam
  ic Programming (출석/마감)
 DTSTART:20261011T145900Z
 DTEND:20261011T145900Z
-DTSTAMP:20260917T122849Z
+DTSTAMP:20260917T130717Z
 UID:canvas-item-8580431@hanyang.ac.kr
 DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
  차/모듈: 6주차\n항목: Review 8-4 Dynamic Programming\nURL: https://
@@ -149,7 +796,7 @@ SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 8-5 Dynam
  ic Programming (출석/마감)
 DTSTART:20261011T145900Z
 DTEND:20261011T145900Z
-DTSTAMP:20260917T122850Z
+DTSTAMP:20260917T130718Z
 UID:canvas-item-8580432@hanyang.ac.kr
 DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
  차/모듈: 6주차\n항목: Review 8-5 Dynamic Programming\nURL: https://
@@ -160,7 +807,7 @@ SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 9-1 greed
  y algorithms (출석/마감)
 DTSTART:20261018T145900Z
 DTEND:20261018T145900Z
-DTSTAMP:20260917T122852Z
+DTSTAMP:20260917T130719Z
 UID:canvas-item-8580434@hanyang.ac.kr
 DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
  차/모듈: 7주차\n항목: Review 9-1 greedy algorithms\nURL: https://le
@@ -171,7 +818,7 @@ SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 9-2 greed
  y algorithms (출석/마감)
 DTSTART:20261018T145900Z
 DTEND:20261018T145900Z
-DTSTAMP:20260917T122853Z
+DTSTAMP:20260917T130720Z
 UID:canvas-item-8580436@hanyang.ac.kr
 DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
  차/모듈: 7주차\n항목: Review 9-2 greedy algorithms\nURL: https://le
@@ -182,7 +829,7 @@ SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 10 Amorti
  zed analysis (출석/마감)
 DTSTART:20261101T145900Z
 DTEND:20261101T145900Z
-DTSTAMP:20260917T122855Z
+DTSTAMP:20260917T130722Z
 UID:canvas-item-8580441@hanyang.ac.kr
 DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
  차/모듈: 9주차\n항목: Review 10 Amortized analysis\nURL: https://le
@@ -193,7 +840,7 @@ SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 10-2 Amor
  tized analysis (출석/마감)
 DTSTART:20261101T145900Z
 DTEND:20261101T145900Z
-DTSTAMP:20260917T122856Z
+DTSTAMP:20260917T130723Z
 UID:canvas-item-8580443@hanyang.ac.kr
 DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
  차/모듈: 9주차\n항목: Review 10-2 Amortized analysis\nURL: https://
@@ -204,7 +851,7 @@ SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 10-3 Amor
  tized analysis (출석/마감)
 DTSTART:20261108T145900Z
 DTEND:20261108T145900Z
-DTSTAMP:20260917T122857Z
+DTSTAMP:20260917T130725Z
 UID:canvas-item-8580445@hanyang.ac.kr
 DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
  차/모듈: 10주차\n항목: Review 10-3 Amortized analysis\nURL: https:/
@@ -215,7 +862,7 @@ SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 12-1 Elem
  entary Graph Algorithms (출석/마감)
 DTSTART:20261108T145900Z
 DTEND:20261108T145900Z
-DTSTAMP:20260917T122859Z
+DTSTAMP:20260917T130726Z
 UID:canvas-item-8580447@hanyang.ac.kr
 DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
  차/모듈: 10주차\n항목: Review 12-1 Elementary Graph Algorithms\nURL
@@ -226,7 +873,7 @@ SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 12-2 Elem
  entary Graph Algorithms (출석/마감)
 DTSTART:20261115T145900Z
 DTEND:20261115T145900Z
-DTSTAMP:20260917T122901Z
+DTSTAMP:20260917T130727Z
 UID:canvas-item-8580449@hanyang.ac.kr
 DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
  차/모듈: 11주차\n항목: Review 12-2 Elementary Graph Algorithms\nURL
@@ -237,7 +884,7 @@ SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 12-3 Elem
  entary Graph Algorithms (출석/마감)
 DTSTART:20261115T145900Z
 DTEND:20261115T145900Z
-DTSTAMP:20260917T122902Z
+DTSTAMP:20260917T130728Z
 UID:canvas-item-8580451@hanyang.ac.kr
 DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
  차/모듈: 11주차\n항목: Review 12-3 Elementary Graph Algorithms\nURL
@@ -248,7 +895,7 @@ SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 12-4 Elem
  entary Graph Algorithms (출석/마감)
 DTSTART:20261122T145900Z
 DTEND:20261122T145900Z
-DTSTAMP:20260917T122904Z
+DTSTAMP:20260917T130730Z
 UID:canvas-item-8580453@hanyang.ac.kr
 DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
  차/모듈: 12주차\n항목: Review 12-4 Elementary Graph Algorithms\nURL
@@ -259,7 +906,7 @@ SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 13  Disjo
  int Sets (출석/마감)
 DTSTART:20261122T145900Z
 DTEND:20261122T145900Z
-DTSTAMP:20260917T122904Z
+DTSTAMP:20260917T130730Z
 UID:canvas-item-8580455@hanyang.ac.kr
 DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
  차/모듈: 12주차\n항목: Review 13  Disjoint Sets\nURL: https://learn
@@ -270,7 +917,7 @@ SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 14. Minim
  um Spanning Trees (출석/마감)
 DTSTART:20261129T145900Z
 DTEND:20261129T145900Z
-DTSTAMP:20260917T122906Z
+DTSTAMP:20260917T130732Z
 UID:canvas-item-8580457@hanyang.ac.kr
 DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
  차/모듈: 13주차\n항목: Review 14. Minimum Spanning Trees\nURL: http
@@ -281,7 +928,7 @@ SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 15 shorte
  st path (출석/마감)
 DTSTART:20261129T145900Z
 DTEND:20261129T145900Z
-DTSTAMP:20260917T122907Z
+DTSTAMP:20260917T130733Z
 UID:canvas-item-8580459@hanyang.ac.kr
 DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
  차/모듈: 13주차\n항목: Review 15 shortest path\nURL: https://learni
@@ -292,7 +939,7 @@ SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 16 Floyd-
  warshall (출석/마감)
 DTSTART:20261206T145900Z
 DTEND:20261206T145900Z
-DTSTAMP:20260917T122908Z
+DTSTAMP:20260917T130734Z
 UID:canvas-item-8580461@hanyang.ac.kr
 DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
  차/모듈: 14주차\n항목: Review 16 Floyd-warshall\nURL: https://learn
