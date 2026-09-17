@@ -9,9 +9,12 @@ API_TOKEN = os.getenv("CANVAS_API_TOKEN", "YOUR_CANVAS_API_TOKEN_HERE")
 OUTPUT_ICS_PATH = "canvas_attendance.ics"
 ORIGINAL_ICS_URL = "https://learning.hanyang.ac.kr/feeds/calendars/user_4e5iYEV0E33S8Pdjog9xYmlsOaZYHzp4o8MLIzS0.ics"
 
+# 브라우저와 똑같이 위장 (400 에러 우회용)
 headers = {
     "Authorization": f"Bearer {API_TOKEN}",
-    "Accept": "application/json"
+    "Accept": "application/json, text/javascript, */*; q=0.01",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "X-Requested-With": "XMLHttpRequest"
 }
 
 def get_paginated_data(url, params=None):
@@ -32,16 +35,15 @@ def parse_iso_datetime(dt_str):
     dt_str = dt_str.replace("Z", "+00:00")
     return datetime.fromisoformat(dt_str)
 
-# 데이터가 어디에 숨겨져 있든 재귀적으로 모두 파헤쳐서 마감일을 찾는 함수
-def find_lx_dates(data, current_title="Unknown"):
+def extract_dates(data, current_title="Unknown"):
     found = []
     if isinstance(data, dict):
         title = data.get('title', data.get('name', current_title))
         
-        # 1. 기본 위치 확인
-        due = data.get('due_at') or data.get('late_at')
+        # 날짜가 있을 법한 모든 키 탐색
+        due = (data.get('due_at') or data.get('late_at') or 
+               data.get('unlock_at') or data.get('lock_at'))
         
-        # 2. 러닝엑스 특유의 중첩 위치(출석 요구사항 등) 확인
         if not due and 'attendance_requirement' in data and isinstance(data['attendance_requirement'], dict):
             due = data['attendance_requirement'].get('due_at') or data['attendance_requirement'].get('late_at')
             
@@ -51,13 +53,12 @@ def find_lx_dates(data, current_title="Unknown"):
         if due:
             found.append((title, due))
             
-        # 더 깊은 곳 탐색
         for k, v in data.items():
-            found.extend(find_lx_dates(v, title))
+            found.extend(extract_dates(v, title))
             
     elif isinstance(data, list):
         for item in data:
-            found.extend(find_lx_dates(item, current_title))
+            found.extend(extract_dates(item, current_title))
             
     return found
 
@@ -69,7 +70,7 @@ def main():
     total_events = 0
     added_events = set()
 
-    # 1. 기본 ICS 캘린더
+    # 1. 기본 공식 ICS 캘린더
     print("1. 기존 공식 캘린더 일정을 가져옵니다...")
     try:
         res_ics = requests.get(ORIGINAL_ICS_URL)
@@ -82,10 +83,10 @@ def main():
                     total_events += 1
             print("  -> 완료")
     except Exception as e:
-        print(f"  -> 오류: {e}")
+        pass
 
-    # 2. 강좌별 심층 스캔
-    print("\n2. 수강 강좌 API 정밀 스캔 시작...")
+    # 2. 강좌별 스캔 시작
+    print("\n2. 수강 강좌 정밀 스캔 시작...")
     courses_url = f"{CANVAS_BASE_URL}/api/v1/courses"
     courses = get_paginated_data(courses_url, params={"enrollment_state": "active"})
 
@@ -93,40 +94,46 @@ def main():
         course_id = course.get("id")
         course_name = course.get("name", "Unknown Course")
         if not course_id: continue
-
+        
         print(f"\n[{course_name}] 스캔 중...")
 
-        # --- 러닝엑스(LearningX) 딥 스캔 ---
-        lx_url = f"{CANVAS_BASE_URL}/learningx/api/v1/courses/{course_id}/modules"
-        res_lx = requests.get(lx_url, headers=headers)
+        # --- A. 러닝엑스 우회 스캔 (다양한 엔드포인트 시도) ---
+        # 400 에러를 피하기 위해 가장 널리 쓰이는 주소 3가지를 찔러봅니다.
+        lx_endpoints = [
+            f"{CANVAS_BASE_URL}/learningx/api/v1/courses/{course_id}/allcomponents_with_item",
+            f"{CANVAS_BASE_URL}/learningx/api/v1/courses/{course_id}/modules",
+            f"{CANVAS_BASE_URL}/api/v1/courses/{course_id}/modules?include[]=items" 
+        ]
         
-        if res_lx.status_code == 200:
-            lx_data = res_lx.json()
-            lx_dates = find_lx_dates(lx_data)
-            unique_lx_dates = list({(t, d) for t, d in lx_dates}) # 중복 제거
-            
-            if unique_lx_dates:
-                print(f"  -> [성공] 러닝엑스 마감일 {len(unique_lx_dates)}개 발견!")
-                for title, due_str in unique_lx_dates:
-                    due_dt = parse_iso_datetime(due_str)
-                    if due_dt:
-                        event_key = f"[{course_name}] {title} (동영상 마감)"
-                        if event_key not in added_events:
-                            event = Event()
-                            event.add('summary', event_key)
-                            event.add('dtstart', due_dt)
-                            event.add('dtend', due_dt)
-                            event.add('dtstamp', datetime.now(timezone.utc))
-                            cal.add_component(event)
-                            added_events.add(event_key)
-                            total_events += 1
-            else:
-                print("  -> [실패] 러닝엑스 접속은 성공했으나, 마감일 데이터를 찾을 수 없습니다.")
-                print("  -> 데이터 구조 일부:", str(lx_data)[:300]) # 원인 파악용 출력
-        else:
-            print(f"  -> [접근 거부] 러닝엑스 API 접근 차단됨 (에러 코드: {res_lx.status_code})")
+        lx_dates_found = []
+        for lx_url in lx_endpoints:
+            res_lx = requests.get(lx_url, headers=headers)
+            if res_lx.status_code == 200:
+                lx_dates_found.extend(extract_dates(res_lx.json()))
+                if lx_dates_found:
+                    break # 하나라도 찾으면 중단
 
-        # --- 기본 캔버스 API 스캔 ---
+        unique_lx_dates = list({(t, d) for t, d in lx_dates_found})
+        
+        if unique_lx_dates:
+            print(f"  -> [성공] 동영상 마감일 {len(unique_lx_dates)}개 발견!")
+            for title, due_str in unique_lx_dates:
+                due_dt = parse_iso_datetime(due_str)
+                if due_dt:
+                    event_key = f"[{course_name}] {title} (마감)"
+                    if event_key not in added_events:
+                        event = Event()
+                        event.add('summary', event_key)
+                        event.add('dtstart', due_dt)
+                        event.add('dtend', due_dt)
+                        event.add('dtstamp', datetime.now(timezone.utc))
+                        cal.add_component(event)
+                        added_events.add(event_key)
+                        total_events += 1
+        else:
+            print("  -> (러닝엑스 데이터 없음)")
+
+        # --- B. 캔버스 기본 스캔 ---
         modules_url = f"{CANVAS_BASE_URL}/api/v1/courses/{course_id}/modules"
         modules = get_paginated_data(modules_url)
         for module in modules:
@@ -138,7 +145,7 @@ def main():
                     res = requests.get(f"{CANVAS_BASE_URL}/api/v1/courses/{course_id}/assignments/{content_id}", headers=headers)
                     if res.status_code == 200:
                         due_at = parse_iso_datetime(res.json().get("due_at") or res.json().get("lock_at"))
-                        event_key = f"[{course_name}] {title} (출석/마감)"
+                        event_key = f"[{course_name}] {title} (마감)"
                         if due_at and event_key not in added_events:
                             event = Event()
                             event.add('summary', event_key)
