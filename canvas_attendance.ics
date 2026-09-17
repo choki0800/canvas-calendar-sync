@@ -1,0 +1,301 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hanyang Canvas Attendance Calendar//ko//
+BEGIN:VEVENT
+SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 1 Inserti
+ on sort (출석/마감)
+DTSTART:20260913T145900Z
+DTEND:20260913T145900Z
+DTSTAMP:20260917T122836Z
+UID:canvas-item-8580408@hanyang.ac.kr
+DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
+ 차/모듈: 1주차\n항목: Review 1 Insertion sort\nURL: https://learnin
+ g.hanyang.ac.kr/courses/212333/modules/items/8580408
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 2 Merge s
+ ort (출석/마감)
+DTSTART:20260913T145900Z
+DTEND:20260913T145900Z
+DTSTAMP:20260917T122836Z
+UID:canvas-item-8580410@hanyang.ac.kr
+DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
+ 차/모듈: 1주차\n항목: Review 2 Merge sort\nURL: https://learning.ha
+ nyang.ac.kr/courses/212333/modules/items/8580410
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 3 Asympto
+ tic notations (출석/마감)
+DTSTART:20260920T145900Z
+DTEND:20260920T145900Z
+DTSTAMP:20260917T122838Z
+UID:canvas-item-8580412@hanyang.ac.kr
+DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
+ 차/모듈: 2주차\n항목: Review 3 Asymptotic notations\nURL: https://l
+ earning.hanyang.ac.kr/courses/212333/modules/items/8580412
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 4-1 Divid
+ e-and-Conquer (출석/마감)
+DTSTART:20260920T145900Z
+DTEND:20260920T145900Z
+DTSTAMP:20260917T122839Z
+UID:canvas-item-8580414@hanyang.ac.kr
+DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
+ 차/모듈: 2주차\n항목: Review 4-1 Divide-and-Conquer\nURL: https://l
+ earning.hanyang.ac.kr/courses/212333/modules/items/8580414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 4-2 Divid
+ e-and-Conquer (출석/마감)
+DTSTART:20260920T145900Z
+DTEND:20260920T145900Z
+DTSTAMP:20260917T122841Z
+UID:canvas-item-8580416@hanyang.ac.kr
+DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
+ 차/모듈: 3주차\n항목: Review 4-2 Divide-and-Conquer\nURL: https://l
+ earning.hanyang.ac.kr/courses/212333/modules/items/8580416
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 5 Heapsor
+ t (출석/마감)
+DTSTART:20260920T145900Z
+DTEND:20260920T145900Z
+DTSTAMP:20260917T122841Z
+UID:canvas-item-8580418@hanyang.ac.kr
+DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
+ 차/모듈: 3주차\n항목: Review 5 Heapsort\nURL: https://learning.hany
+ ang.ac.kr/courses/212333/modules/items/8580418
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 6 Quickso
+ rt (출석/마감)
+DTSTART:20260927T145900Z
+DTEND:20260927T145900Z
+DTSTAMP:20260917T122843Z
+UID:canvas-item-8580420@hanyang.ac.kr
+DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
+ 차/모듈: 4주차\n항목: Review 6 Quicksort\nURL: https://learning.han
+ yang.ac.kr/courses/212333/modules/items/8580420
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 7 Countin
+ g & Radixsort (출석/마감)
+DTSTART:20261004T145900Z
+DTEND:20261004T145900Z
+DTSTAMP:20260917T122844Z
+UID:canvas-item-8580423@hanyang.ac.kr
+DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
+ 차/모듈: 5주차\n항목: Review 7 Counting & Radixsort\nURL: https://l
+ earning.hanyang.ac.kr/courses/212333/modules/items/8580423
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[202620HY11961_알고리즘및문제해결기법] Data structure r
+ eview (출석/마감)
+DTSTART:20261004T145900Z
+DTEND:20261004T145900Z
+DTSTAMP:20260917T122845Z
+UID:canvas-item-8580424@hanyang.ac.kr
+DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
+ 차/모듈: 5주차\n항목: Data structure review\nURL: https://learning.
+ hanyang.ac.kr/courses/212333/modules/items/8580424
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 8-1 Dynam
+ ic Programming (출석/마감)
+DTSTART:20261004T145900Z
+DTEND:20261004T145900Z
+DTSTAMP:20260917T122846Z
+UID:canvas-item-8580426@hanyang.ac.kr
+DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
+ 차/모듈: 5주차\n항목: Review 8-1 Dynamic Programming\nURL: https://
+ learning.hanyang.ac.kr/courses/212333/modules/items/8580426
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 8-2 Dynam
+ ic Programming (출석/마감)
+DTSTART:20261011T145900Z
+DTEND:20261011T145900Z
+DTSTAMP:20260917T122848Z
+UID:canvas-item-8580428@hanyang.ac.kr
+DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
+ 차/모듈: 6주차\n항목: Review 8-2 Dynamic Programming\nURL: https://
+ learning.hanyang.ac.kr/courses/212333/modules/items/8580428
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 8-3 Dynam
+ ic Programming (출석/마감)
+DTSTART:20261011T145900Z
+DTEND:20261011T145900Z
+DTSTAMP:20260917T122849Z
+UID:canvas-item-8580429@hanyang.ac.kr
+DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
+ 차/모듈: 6주차\n항목: Review 8-3 Dynamic Programming\nURL: https://
+ learning.hanyang.ac.kr/courses/212333/modules/items/8580429
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 8-4 Dynam
+ ic Programming (출석/마감)
+DTSTART:20261011T145900Z
+DTEND:20261011T145900Z
+DTSTAMP:20260917T122849Z
+UID:canvas-item-8580431@hanyang.ac.kr
+DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
+ 차/모듈: 6주차\n항목: Review 8-4 Dynamic Programming\nURL: https://
+ learning.hanyang.ac.kr/courses/212333/modules/items/8580431
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 8-5 Dynam
+ ic Programming (출석/마감)
+DTSTART:20261011T145900Z
+DTEND:20261011T145900Z
+DTSTAMP:20260917T122850Z
+UID:canvas-item-8580432@hanyang.ac.kr
+DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
+ 차/모듈: 6주차\n항목: Review 8-5 Dynamic Programming\nURL: https://
+ learning.hanyang.ac.kr/courses/212333/modules/items/8580432
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 9-1 greed
+ y algorithms (출석/마감)
+DTSTART:20261018T145900Z
+DTEND:20261018T145900Z
+DTSTAMP:20260917T122852Z
+UID:canvas-item-8580434@hanyang.ac.kr
+DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
+ 차/모듈: 7주차\n항목: Review 9-1 greedy algorithms\nURL: https://le
+ arning.hanyang.ac.kr/courses/212333/modules/items/8580434
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 9-2 greed
+ y algorithms (출석/마감)
+DTSTART:20261018T145900Z
+DTEND:20261018T145900Z
+DTSTAMP:20260917T122853Z
+UID:canvas-item-8580436@hanyang.ac.kr
+DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
+ 차/모듈: 7주차\n항목: Review 9-2 greedy algorithms\nURL: https://le
+ arning.hanyang.ac.kr/courses/212333/modules/items/8580436
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 10 Amorti
+ zed analysis (출석/마감)
+DTSTART:20261101T145900Z
+DTEND:20261101T145900Z
+DTSTAMP:20260917T122855Z
+UID:canvas-item-8580441@hanyang.ac.kr
+DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
+ 차/모듈: 9주차\n항목: Review 10 Amortized analysis\nURL: https://le
+ arning.hanyang.ac.kr/courses/212333/modules/items/8580441
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 10-2 Amor
+ tized analysis (출석/마감)
+DTSTART:20261101T145900Z
+DTEND:20261101T145900Z
+DTSTAMP:20260917T122856Z
+UID:canvas-item-8580443@hanyang.ac.kr
+DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
+ 차/모듈: 9주차\n항목: Review 10-2 Amortized analysis\nURL: https://
+ learning.hanyang.ac.kr/courses/212333/modules/items/8580443
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 10-3 Amor
+ tized analysis (출석/마감)
+DTSTART:20261108T145900Z
+DTEND:20261108T145900Z
+DTSTAMP:20260917T122857Z
+UID:canvas-item-8580445@hanyang.ac.kr
+DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
+ 차/모듈: 10주차\n항목: Review 10-3 Amortized analysis\nURL: https:/
+ /learning.hanyang.ac.kr/courses/212333/modules/items/8580445
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 12-1 Elem
+ entary Graph Algorithms (출석/마감)
+DTSTART:20261108T145900Z
+DTEND:20261108T145900Z
+DTSTAMP:20260917T122859Z
+UID:canvas-item-8580447@hanyang.ac.kr
+DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
+ 차/모듈: 10주차\n항목: Review 12-1 Elementary Graph Algorithms\nURL
+ : https://learning.hanyang.ac.kr/courses/212333/modules/items/8580447
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 12-2 Elem
+ entary Graph Algorithms (출석/마감)
+DTSTART:20261115T145900Z
+DTEND:20261115T145900Z
+DTSTAMP:20260917T122901Z
+UID:canvas-item-8580449@hanyang.ac.kr
+DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
+ 차/모듈: 11주차\n항목: Review 12-2 Elementary Graph Algorithms\nURL
+ : https://learning.hanyang.ac.kr/courses/212333/modules/items/8580449
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 12-3 Elem
+ entary Graph Algorithms (출석/마감)
+DTSTART:20261115T145900Z
+DTEND:20261115T145900Z
+DTSTAMP:20260917T122902Z
+UID:canvas-item-8580451@hanyang.ac.kr
+DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
+ 차/모듈: 11주차\n항목: Review 12-3 Elementary Graph Algorithms\nURL
+ : https://learning.hanyang.ac.kr/courses/212333/modules/items/8580451
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 12-4 Elem
+ entary Graph Algorithms (출석/마감)
+DTSTART:20261122T145900Z
+DTEND:20261122T145900Z
+DTSTAMP:20260917T122904Z
+UID:canvas-item-8580453@hanyang.ac.kr
+DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
+ 차/모듈: 12주차\n항목: Review 12-4 Elementary Graph Algorithms\nURL
+ : https://learning.hanyang.ac.kr/courses/212333/modules/items/8580453
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 13  Disjo
+ int Sets (출석/마감)
+DTSTART:20261122T145900Z
+DTEND:20261122T145900Z
+DTSTAMP:20260917T122904Z
+UID:canvas-item-8580455@hanyang.ac.kr
+DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
+ 차/모듈: 12주차\n항목: Review 13  Disjoint Sets\nURL: https://learn
+ ing.hanyang.ac.kr/courses/212333/modules/items/8580455
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 14. Minim
+ um Spanning Trees (출석/마감)
+DTSTART:20261129T145900Z
+DTEND:20261129T145900Z
+DTSTAMP:20260917T122906Z
+UID:canvas-item-8580457@hanyang.ac.kr
+DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
+ 차/모듈: 13주차\n항목: Review 14. Minimum Spanning Trees\nURL: http
+ s://learning.hanyang.ac.kr/courses/212333/modules/items/8580457
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 15 shorte
+ st path (출석/마감)
+DTSTART:20261129T145900Z
+DTEND:20261129T145900Z
+DTSTAMP:20260917T122907Z
+UID:canvas-item-8580459@hanyang.ac.kr
+DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
+ 차/모듈: 13주차\n항목: Review 15 shortest path\nURL: https://learni
+ ng.hanyang.ac.kr/courses/212333/modules/items/8580459
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 16 Floyd-
+ warshall (출석/마감)
+DTSTART:20261206T145900Z
+DTEND:20261206T145900Z
+DTSTAMP:20260917T122908Z
+UID:canvas-item-8580461@hanyang.ac.kr
+DESCRIPTION:강좌: 202620HY11961_알고리즘및문제해결기법\n주
+ 차/모듈: 14주차\n항목: Review 16 Floyd-warshall\nURL: https://learn
+ ing.hanyang.ac.kr/courses/212333/modules/items/8580461
+END:VEVENT
+END:VCALENDAR
