@@ -1,0 +1,37 @@
+name: Update Canvas Calendar
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 매일 UTC 자정 (한국 시간 오전 9시) 실행
+  workflow_dispatch: # 수동으로 즉시 실행할 수 있는 버튼 활성화
+
+permissions:
+  contents: write # ics 파일을 커밋하고 푸시하기 위한 권한
+
+jobs:
+  update-ics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 저장소 코드 불러오기
+        uses: actions/checkout@v4
+      
+      - name: 파이썬 환경 설정
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          
+      - name: 필요 라이브러리 설치
+        run: pip install requests icalendar
+        
+      - name: 파이썬 스크립트 실행하여 ics 파일 생성
+        env:
+          CANVAS_API_TOKEN: ${{ secrets.CANVAS_API_TOKEN }}
+        run: python sync_canvas_attendance.py
+        
+      - name: 변경된 ics 파일을 GitHub에 반영(커밋)
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add canvas_attendance.ics
+          git commit -m "Auto-update calendar ICS file" || echo "변경된 내용이 없습니다."
+          git push
