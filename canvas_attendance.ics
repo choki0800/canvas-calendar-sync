@@ -451,6 +451,27 @@ X-ALT-DESC;FMTTYPE=text/html:<p><span>Please solve the questions in the at
  n></p>
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Relational Design - Functional Dependency [202620HY11960_데이터
+ 베이스시스템및응용]
+DTSTART;VALUE=DATE:20261108T000000
+DTEND;VALUE=DATE:20261108T000000
+DTSTAMP:20261102T061200Z
+UID:event-assignment-2834275
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Please check the attached file.\n\n[relational-design-2026.pdf
+ ] (https://learning.hanyang.ac.kr/courses/212325/files/11921283?verifier=C
+ Nn0C6N9xE5egt0i4FyMtOoUZ9bIpmvZ0QT7pGQb&wrap=1) 
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212325
+ &month=11&year=2026#assignment_2834275
+X-ALT-DESC;FMTTYPE=text/html:<p>Please check the attached file.</p>\n<p><a
+  class="instructure_file_link instructure_scribd_file" title="relational-d
+ esign-2026.pdf" href="https://learning.hanyang.ac.kr/courses/212325/files/
+ 11921283?verifier=CNn0C6N9xE5egt0i4FyMtOoUZ9bIpmvZ0QT7pGQb&amp\;wrap=1" ta
+ rget="_blank" data-canvas-previewable="true">relational-design-2026.pdf</a
+ > </p>
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Review 12-2 Elementary Graph Algorithms [202620HY11961_알고리
  즘및문제해결기법]
 DTSTART;VALUE=DATE:20261115T000000
@@ -502,12 +523,109 @@ SUMMARY:[과제 제출] 과제 제출 안내: 과제 제출은 정해진
  트커뮤니케이션)]
 DTSTART;VALUE=DATE:20261118T000000
 DTEND;VALUE=DATE:20261118T000000
-DTSTAMP:20261030T051600Z
+DTSTAMP:20261102T150000Z
 UID:event-assignment-2833155
 SEQUENCE:0
 CLASS:PUBLIC
+DESCRIPTION:[과제 제출기간]\n\n- 과제 제출기간 : 2026.11.03(
+ 화) 00:00 ~ 2026.11.18(수) 23:59\n\n★출결확인방법: LMS -> [출
+ 결현황] -> 5주 이상 결석시 자동 F 되니 꼭 확인하세요!\n
+  \n\n[주의사항]\n- LMS [공지]를 확인하고\, 제공된 양식을
+  다운받아 과제 내 항목을 모두 작성하세요.\n\n*참고: 샘
+ 플 내 메모 첨부된 작성 가이드를 참고할 수 있습니다.\n
+ \n- 반드시 제출 기간 안에 과제를 업로드해주세요. \n\n
+ ★ LMS 문의게시판\, 이메일\, LMS 메시지 등으로 제출한 
+ 과제는 인정하지 않습니다. (게시판에 과제를 올릴 경우
+ \, 개인정보 유출 우려가 있으므로 관리자가 파일을 임
+ 의로 삭제합니다.)  \n\n \n\n< 주의사항 Important Notes>\n\n1
+ ) 양식 (form)\n- 파일형식을 PDF로 저장하여 제출\n  Save and
+  submit the file format as PDF\n- 제시된 양식을 임의로 변경하
+ 지 말 것\n  Do not arbitrarily change the form\n- 고의적인 띄어
+ 쓰기\, 줄 바꿈\, 가운데 맞춤 시 감점\n  Deduct points for in
+ tentional spacing\, line breaks\, and center alignment\n\n2) 과제 분량
+  (volume)\n- 과제 양식 내 분량 확인 후 미충족 시 감점. 분
+ 량에 따라 양식을 늘려서 쓸 수 있음\n  The form can be incre
+ ased and Points deducted if the amount of assignment is not enough\n\n3) 
+ 내용의 충실도 (quality)\n- 욕설\, 속어\, 과제와 관계없는 
+ 내용 작성할 경우 감점될 수 있음\n  Can be deducted for using
+  abusive language or slang\n\n4) 표절 (plagiarism) \n\n★ 과제 양
+ 식 내 안내 및 지시 문구로 인해 표절률이 높게 나오는 
+ 경우\, 양식은 표절률 %에 포함하지 않고 점수 감점에도 
+ 영향을 주지 않습니다. \n\nIf the plagiarism rate is high due to 
+ the instructions or guidelines within the assignment template\, the templa
+ te format will not be considered plagiarism and will not affect your grade
+ .\n\n- 카피킬러 15% 이상으로 확인될 경우\, 표절률에 따
+ 른 감점이 적용됩니다.\nIf the plagiarism check (via Copy Killer) 
+ shows a rate of 15% or more\, points will be deducted based on the plagiar
+ ism rate.\n\n- 표절률이 80% 이상일 경우\, 제출 여부와 상관
+ 없이 0점 처리됩니다.\nIf the plagiarism rate is 80% or more\, your
+  assignment will be graded as 0\, regardless of whether you submit it or n
+ ot.\n\n- 과제 제출 전 표절률을 꼭 확인해 주시기 바랍니
+ 다.\nBe sure to check the plagiarism rate before submitting the assignmen
+ t.\n\n \n\n 
 URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_213039
  &month=11&year=2026#assignment_2833155
+X-ALT-DESC;FMTTYPE=text/html:<p><strong>[과제 제출기간]</strong></p>
+ \n<p><span style="background-color: #fbeeb8\;"><strong>- 과제 제출기
+ 간 : 2026.11.03(화) 00:00 ~ 2026.11.18(수) 23:59</strong></span></p>\n<
+ p><span style="font-weight: 400\;">★출결확인방법: LMS -&gt\; [출
+ 결현황] -&gt\; 5주 이상 결석시 자동 F 되니 꼭 확인하세
+ 요!</span><span style="font-weight: 400\;"><br></span><span style="font-w
+ eight: 400\;"> </span></p>\n<p><span style="font-weight: 400\;">[주의
+ 사항] </span><span style="font-weight: 400\;"><br></span><span style="fo
+ nt-weight: 400\;">- LMS [공지]를 확인하고\, 제공된 양식을 다
+ 운받아 과제 내 항목을 모두 작성하세요.</span></p>\n<p><spa
+ n style="font-weight: 400\;">*참고: 샘플 내 메모 첨부된 작성 
+ 가이드를 참고할 수 있습니다.</span></p>\n<p><span style="font-
+ weight: 400\;">- 반드시 제출 기간 안에 과제를 업로드해주
+ 세요. </span></p>\n<p><span style="font-weight: 400\;">★ LMS 문의
+ 게시판\, 이메일\, LMS 메시지 등으로 제출한 과제는 인정
+ 하지 않습니다. (게시판에 과제를 올릴 경우\, 개인정보 
+ 유출 우려가 있으므로 관리자가 파일을 임의로 삭제합
+ 니다.)  </span></p>\n<p> </p>\n<p><strong>&lt\; 주의사항 Importan
+ t Notes&gt\;</strong></p>\n<p><strong>1) 양식 (form)</strong><strong><br
+ ></strong><span style="font-weight: 400\;">- 파일형식을 PDF로 저장
+ 하여 제출</span><span style="font-weight: 400\;"><br></span><span styl
+ e="font-weight: 400\;">   Save and submit the file format as PDF</span><s
+ pan style="font-weight: 400\;"><br></span><span style="font-weight: 400\;"
+ >- 제시된 양식을 임의로 변경하지 말 것</span><span style="f
+ ont-weight: 400\;"><br></span><span style="font-weight: 400\;">   Do not 
+ arbitrarily change the form</span><span style="font-weight: 400\;"><br></s
+ pan><span style="font-weight: 400\;">- 고의적인 띄어쓰기\, 줄 바
+ 꿈\, 가운데 맞춤 시 감점</span><span style="font-weight: 400\;"><
+ br></span><span style="font-weight: 400\;">   Deduct points for intention
+ al spacing\, line breaks\, and center alignment</span></p>\n<p><strong>2) 
+ 과제 분량 (volume)</strong><strong><br></strong><span style="font-weig
+ ht: 400\;">- 과제 양식 내 분량 확인 후 미충족 시 감점. 분
+ 량에 따라 양식을 늘려서 쓸 수 있음</span><span style="font-w
+ eight: 400\;"><br></span><span style="font-weight: 400\;">   The form can
+  be increased and Points deducted if the amount of assignment is not enoug
+ h</span></p>\n<p><strong>3) 내용의 충실도 (quality)</strong><strong>
+ <br></strong><span style="font-weight: 400\;">- 욕설\, 속어\, 과제
+ 와 관계없는 내용 작성할 경우 감점될 수 있음</span><span 
+ style="font-weight: 400\;"><br></span><span style="font-weight: 400\;">  
+  Can be deducted for using abusive language or slang</span></p>\n<p><stron
+ g>4) 표절 (plagiarism) </strong></p>\n<p><strong>★ 과제 양식 내 
+ 안내 및 지시 문구로 인해 표절률이 높게 나오는 경우\, 
+ 양식은 표절률 %에 포함하지 않고 점수 감점에도 영향을
+  주지 않습니다. </strong></p>\n<p><strong>If the plagiarism rate is
+  high due to the instructions or guidelines within the assignment template
+ \, the template format will not be considered plagiarism and will not affe
+ ct your grade.</strong></p>\n<p><span style="font-weight: 400\;">- 카피
+ 킬러 15% 이상으로 확인될 경우\, 표절률에 따른 감점이 
+ 적용됩니다. </span><span style="font-weight: 400\;"><br></span><span 
+ style="font-weight: 400\;">If the plagiarism check (via Copy Killer) shows
+  a rate of 15% or more\, points will be deducted based on the plagiarism r
+ ate.</span></p>\n<p><span style="font-weight: 400\;">- 표절률이 80% 
+ 이상일 경우\, 제출 여부와 상관없이 0점 처리됩니다.</sp
+ an><span style="font-weight: 400\;"><br></span><span style="font-weight: 4
+ 00\;">If the plagiarism rate is 80% or more\, your assignment will be grad
+ ed as 0\, regardless of whether you submit it or not.</span></p>\n<p><span
+  style="font-weight: 400\;">- 과제 제출 전 표절률을 꼭 확인해
+  주시기 바랍니다.</span><span style="font-weight: 400\;"><br></span
+ ><span style="font-weight: 400\;">Be sure to check the plagiarism rate bef
+ ore submitting the assignment</span><strong>.</strong></p>\n<p> </p>\n<p>
+  </p>
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Review 12-4 Elementary Graph Algorithms [202620HY11961_알고리
@@ -625,202 +743,209 @@ SUMMARY:[202620HY11960_데이터베이스시스템및응용] Homework : in
  stall MySQL on your own (마감)
 DTSTART:20261011T145959Z
 DTEND:20261011T145959Z
-DTSTAMP:20261102T045312Z
+DTSTAMP:20261103T054216Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11960_데이터베이스시스템및응용] ER Diagram Ho
  mework (마감)
 DTSTART:20261021T145959Z
 DTEND:20261021T145959Z
-DTSTAMP:20261102T045315Z
+DTSTAMP:20261103T054218Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[202620HY11960_데이터베이스시스템및응용] Relational De
+ sign - Functional Dependency (마감)
+DTSTART:20261108T145959Z
+DTEND:20261108T145959Z
+DTSTAMP:20261103T054221Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 1 Inserti
  on sort (마감)
 DTSTART:20260913T145900Z
 DTEND:20260913T145900Z
-DTSTAMP:20261102T045330Z
+DTSTAMP:20261103T054233Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 2 Merge s
  ort (마감)
 DTSTART:20260913T145900Z
 DTEND:20260913T145900Z
-DTSTAMP:20261102T045330Z
+DTSTAMP:20261103T054234Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 3 Asympto
  tic notations (마감)
 DTSTART:20260920T145900Z
 DTEND:20260920T145900Z
-DTSTAMP:20261102T045332Z
+DTSTAMP:20261103T054237Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 4-1 Divid
  e-and-Conquer (마감)
 DTSTART:20260920T145900Z
 DTEND:20260920T145900Z
-DTSTAMP:20261102T045333Z
+DTSTAMP:20261103T054237Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 4-2 Divid
  e-and-Conquer (마감)
 DTSTART:20260920T145900Z
 DTEND:20260920T145900Z
-DTSTAMP:20261102T045334Z
+DTSTAMP:20261103T054239Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 5 Heapsor
  t (마감)
 DTSTART:20260920T145900Z
 DTEND:20260920T145900Z
-DTSTAMP:20261102T045335Z
+DTSTAMP:20261103T054240Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 6 Quickso
  rt (마감)
 DTSTART:20260927T145900Z
 DTEND:20260927T145900Z
-DTSTAMP:20261102T045337Z
+DTSTAMP:20261103T054241Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 7 Countin
  g & Radixsort (마감)
 DTSTART:20261004T145900Z
 DTEND:20261004T145900Z
-DTSTAMP:20261102T045339Z
+DTSTAMP:20261103T054243Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Data structure r
  eview (마감)
 DTSTART:20261004T145900Z
 DTEND:20261004T145900Z
-DTSTAMP:20261102T045339Z
+DTSTAMP:20261103T054244Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 8-1 Dynam
  ic Programming (마감)
 DTSTART:20261004T145900Z
 DTEND:20261004T145900Z
-DTSTAMP:20261102T045340Z
+DTSTAMP:20261103T054244Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 8-2 Dynam
  ic Programming (마감)
 DTSTART:20261011T145900Z
 DTEND:20261011T145900Z
-DTSTAMP:20261102T045342Z
+DTSTAMP:20261103T054246Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 8-3 Dynam
  ic Programming (마감)
 DTSTART:20261011T145900Z
 DTEND:20261011T145900Z
-DTSTAMP:20261102T045343Z
+DTSTAMP:20261103T054247Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 8-4 Dynam
  ic Programming (마감)
 DTSTART:20261011T145900Z
 DTEND:20261011T145900Z
-DTSTAMP:20261102T045344Z
+DTSTAMP:20261103T054248Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 8-5 Dynam
  ic Programming (마감)
 DTSTART:20261011T145900Z
 DTEND:20261011T145900Z
-DTSTAMP:20261102T045344Z
+DTSTAMP:20261103T054249Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 9-1 greed
  y algorithms (마감)
 DTSTART:20261018T145900Z
 DTEND:20261018T145900Z
-DTSTAMP:20261102T045347Z
+DTSTAMP:20261103T054250Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 9-2 greed
  y algorithms (마감)
 DTSTART:20261018T145900Z
 DTEND:20261018T145900Z
-DTSTAMP:20261102T045347Z
+DTSTAMP:20261103T054251Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 10 Amorti
  zed analysis (마감)
 DTSTART:20261101T145900Z
 DTEND:20261101T145900Z
-DTSTAMP:20261102T045350Z
+DTSTAMP:20261103T054254Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 10-2 Amor
  tized analysis (마감)
 DTSTART:20261101T145900Z
 DTEND:20261101T145900Z
-DTSTAMP:20261102T045351Z
+DTSTAMP:20261103T054255Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 10-3 Amor
  tized analysis (마감)
 DTSTART:20261108T145900Z
 DTEND:20261108T145900Z
-DTSTAMP:20261102T045352Z
+DTSTAMP:20261103T054256Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 12-1 Elem
  entary Graph Algorithms (마감)
 DTSTART:20261108T145900Z
 DTEND:20261108T145900Z
-DTSTAMP:20261102T045353Z
+DTSTAMP:20261103T054257Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 12-2 Elem
  entary Graph Algorithms (마감)
 DTSTART:20261115T145900Z
 DTEND:20261115T145900Z
-DTSTAMP:20261102T045355Z
+DTSTAMP:20261103T054258Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 12-3 Elem
  entary Graph Algorithms (마감)
 DTSTART:20261115T145900Z
 DTEND:20261115T145900Z
-DTSTAMP:20261102T045356Z
+DTSTAMP:20261103T054259Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 12-4 Elem
  entary Graph Algorithms (마감)
 DTSTART:20261122T145900Z
 DTEND:20261122T145900Z
-DTSTAMP:20261102T045358Z
+DTSTAMP:20261103T054300Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 13  Disjo
  int Sets (마감)
 DTSTART:20261122T145900Z
 DTEND:20261122T145900Z
-DTSTAMP:20261102T045358Z
+DTSTAMP:20261103T054302Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 14. Minim
  um Spanning Trees (마감)
 DTSTART:20261129T145900Z
 DTEND:20261129T145900Z
-DTSTAMP:20261102T045400Z
+DTSTAMP:20261103T054303Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 15 shorte
  st path (마감)
 DTSTART:20261129T145900Z
 DTEND:20261129T145900Z
-DTSTAMP:20261102T045401Z
+DTSTAMP:20261103T054304Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 16 Floyd-
  warshall (마감)
 DTSTART:20261206T145900Z
 DTEND:20261206T145900Z
-DTSTAMP:20261102T045402Z
+DTSTAMP:20261103T054305Z
 END:VEVENT
 END:VCALENDAR
