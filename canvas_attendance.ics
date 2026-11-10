@@ -155,7 +155,7 @@ SUMMARY:ER Diagram Homework [202620HY11960_데이터베이스시스템및
  응용]
 DTSTART;VALUE=DATE:20261021T000000
 DTEND;VALUE=DATE:20261021T000000
-DTSTAMP:20261013T042500Z
+DTSTAMP:20261109T064700Z
 UID:event-assignment-2826200
 SEQUENCE:0
 CLASS:PUBLIC
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:Midterm Exam [202620HY11960_데이터베이스시스템및응용]
 DTSTART:20261026T083000Z
 DTEND:20261026T083000Z
-DTSTAMP:20261026T070000Z
+DTSTAMP:20261109T093400Z
 UID:event-assignment-2829551
 SEQUENCE:0
 CLASS:PUBLIC
@@ -554,6 +554,27 @@ X-ALT-DESC;FMTTYPE=text/html:<p><span>Please solve the questions in the at
  ile">Review 13 Disjoint Sets.pdf</a> </span></p>
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Relational Design Homework [202620HY11960_데이터베이스시스
+ 템및응용]
+DTSTART:20261123T070000Z
+DTEND:20261123T070000Z
+DTSTAMP:20261110T011400Z
+UID:event-assignment-2837846
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Please refer to the attached file.\n\n[normalization-homework.
+ pdf] (https://learning.hanyang.ac.kr/courses/212325/files/11978523?verifie
+ r=xbA2VWNSEQqFD1Nb6oPPNYLjs8gKr9fsXXWxtNrt&wrap=1) 
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212325
+ &month=11&year=2026#assignment_2837846
+X-ALT-DESC;FMTTYPE=text/html:<p>Please refer to the attached file.</p>\n<p
+ ><a class="instructure_file_link instructure_scribd_file" title="normaliza
+ tion-homework.pdf" href="https://learning.hanyang.ac.kr/courses/212325/fil
+ es/11978523?verifier=xbA2VWNSEQqFD1Nb6oPPNYLjs8gKr9fsXXWxtNrt&amp\;wrap=1"
+  target="_blank" data-canvas-previewable="true">normalization-homework.pdf
+ </a> </p>
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Review 14. Minimum Spanning Trees [202620HY11961_알고리즘및
  문제해결기법]
 DTSTART;VALUE=DATE:20261129T000000
@@ -598,6 +619,72 @@ X-ALT-DESC;FMTTYPE=text/html:<p><span>Please solve the questions in the at
  le">Review 15 shortest path.pdf</a> </span></p>
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Assignment #3 [202620HY11962_머신러닝2]
+DTSTART;VALUE=DATE:20261130T000000
+DTEND;VALUE=DATE:20261130T000000
+DTSTAMP:20261109T093900Z
+UID:event-assignment-2837624
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Dear all\,\n\nI understand that you've just finished the secon
+ d assignment and want to take a breather.\n\nBut once again\, I'm trying m
+ y best to keep our promise we made in the beginning of the semester.\n\nHe
+ nce\, what I decided to do is to post the assignment as posted but extend 
+ the deadline (i.e.\, Nov 22nd -> Nov 30th\, extended by more than a week).
+  Hope this helps ease the burden for you guys (but less break before the f
+ inal exam).\n\nBTW\, the final exam date has been set to be Dec. 15th.\n\n
+ Without further ado\, here is your final assignment: [SOI1010_Machine_Lear
+ ning_II___Assignment_3.pdf] (https://learning.hanyang.ac.kr/courses/212920
+ /files/11974279?verifier=snMLaczl0KMiiwJaArefv8Qulp6rhLGNEbwg89VR&wrap=1)
+  \n\n[] (https://learning.hanyang.ac.kr/courses/188548/files/10183868/dow
+ nload?wrap=1)\n\n[] (https://learning.hanyang.ac.kr/courses/188547/files/1
+ 0183850/download?wrap=1)\n\nRemember this is a competition (there will be 
+ bonus marks to top-rankings).\n\n \n\nAny form of plagiarism (using ChatG
+ PT\, copying works from others\, Internet\, etc.) will result in an immedi
+ ate F for the whole course (and other disciplinary actions may follow).\n
+ \nYou can use LLM to help you analyze data\, research\, come up with ideas
+ \, and implement. But\, you are fully responsible for the submission and y
+ ou should be aware of what you are doing.\n\nInclude a link to colab\, .p
+ y\, .ipynb file\, and a report  in the submission. Any missing file will
+  result in substantial mark deductions.\n\n \n\nBest\,\n\nSungyong
+URL:https://learning.hanyang.ac.kr/calendar?include_contexts=course_212920
+ &month=11&year=2026#assignment_2837624
+X-ALT-DESC;FMTTYPE=text/html:<p>Dear all\,</p>\n<p><br>I understand that y
+ ou've just finished the second assignment and want to take a breather.</p>
+ \n<p>But once again\, I'm trying my best to keep our promise we made in th
+ e beginning of the semester.</p>\n<p>Hence\, what I decided to do is to po
+ st the assignment as posted but extend the deadline (i.e.\, Nov 22nd -&gt
+ \; <strong>Nov 30th</strong>\, extended by more than a week). Hope this he
+ lps ease the burden for you guys (but less break before the final exam).</
+ p>\n<p>BTW\, the <strong>final exam date has been set to be Dec. 15th</str
+ ong>.</p>\n<p>Without further ado\, here is your final assignment: <a clas
+ s="instructure_file_link instructure_scribd_file" title="SOI1010_Machine_L
+ earning_II___Assignment_3.pdf" href="https://learning.hanyang.ac.kr/course
+ s/212920/files/11974279?verifier=snMLaczl0KMiiwJaArefv8Qulp6rhLGNEbwg89VR&
+ amp\;wrap=1" target="_blank" data-canvas-previewable="true">SOI1010_Machin
+ e_Learning_II___Assignment_3.pdf</a> </p>\n<p><span class="instructure_fi
+ le_holder link_holder"><a class="file_preview_link" title="문서 미리 
+ 보기" href="https://learning.hanyang.ac.kr/courses/188548/files/10183868
+ /download?wrap=1" aria-hidden="true" data-api-endpoint="https://learning.h
+ anyang.ac.kr/api/v1/courses/188548/files/10183868" data-api-returntype="Fi
+ le"></a></span></p>\n<p><span class="instructure_file_holder link_holder">
+ <a class="instructure_file_link" title="SOI1010_Machine_Learning_II___Assi
+ gnment_3.pdf" href="https://learning.hanyang.ac.kr/courses/188547/files/10
+ 183850/download?wrap=1" target="_blank" data-canvas-previewable="true" dat
+ a-api-endpoint="https://learning.hanyang.ac.kr/api/v1/courses/188547/files
+ /10183850" data-api-returntype="File"></a></span></p>\n<p>Remember this is
+  a competition (there will be bonus marks to top-rankings).</p>\n<p> </p>
+ \n<p>Any form of plagiarism (using ChatGPT\, copying works from others\, I
+ nternet\, etc.) will result in an immediate F for the whole course (and ot
+ her disciplinary actions may follow).</p>\n<p>You can use LLM to help you 
+ analyze data\, research\, come up with ideas\, and implement. But\, you ar
+ e fully responsible for the submission and you should be aware of what you
+  are doing.</p>\n<p><strong>Include<span> </span></strong><strong>a link 
+ to colab\, .py\, .ipynb file\, and a report<span> </span><span> </span><
+ /strong>in the submission. Any missing file will result in substantial mar
+ k deductions.</p>\n<p> </p>\n<p>Best\,</p>\n<p>Sungyong</p>
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Review 16 Floyd-warshall [202620HY11961_알고리즘및문제해
  결기법]
 DTSTART;VALUE=DATE:20261206T000000
@@ -624,209 +711,216 @@ SUMMARY:[202620HY11960_데이터베이스시스템및응용] Homework : in
  stall MySQL on your own (마감)
 DTSTART:20261011T145959Z
 DTEND:20261011T145959Z
-DTSTAMP:20261109T050232Z
+DTSTAMP:20261110T062041Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11960_데이터베이스시스템및응용] ER Diagram Ho
  mework (마감)
 DTSTART:20261021T145959Z
 DTEND:20261021T145959Z
-DTSTAMP:20261109T050234Z
+DTSTAMP:20261110T062043Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11960_데이터베이스시스템및응용] Relational De
  sign - Functional Dependency (마감)
 DTSTART:20261108T145959Z
 DTEND:20261108T145959Z
-DTSTAMP:20261109T050236Z
+DTSTAMP:20261110T062046Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[202620HY11960_데이터베이스시스템및응용] Relational De
+ sign Homework (마감)
+DTSTART:20261123T070000Z
+DTEND:20261123T070000Z
+DTSTAMP:20261110T062048Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 1 Inserti
  on sort (마감)
 DTSTART:20260913T145900Z
 DTEND:20260913T145900Z
-DTSTAMP:20261109T050244Z
+DTSTAMP:20261110T062056Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 2 Merge s
  ort (마감)
 DTSTART:20260913T145900Z
 DTEND:20260913T145900Z
-DTSTAMP:20261109T050245Z
+DTSTAMP:20261110T062057Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 3 Asympto
  tic notations (마감)
 DTSTART:20260920T145900Z
 DTEND:20260920T145900Z
-DTSTAMP:20261109T050246Z
+DTSTAMP:20261110T062058Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 4-1 Divid
  e-and-Conquer (마감)
 DTSTART:20260920T145900Z
 DTEND:20260920T145900Z
-DTSTAMP:20261109T050247Z
+DTSTAMP:20261110T062059Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 4-2 Divid
  e-and-Conquer (마감)
 DTSTART:20260920T145900Z
 DTEND:20260920T145900Z
-DTSTAMP:20261109T050248Z
+DTSTAMP:20261110T062100Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 5 Heapsor
  t (마감)
 DTSTART:20260920T145900Z
 DTEND:20260920T145900Z
-DTSTAMP:20261109T050249Z
+DTSTAMP:20261110T062101Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 6 Quickso
  rt (마감)
 DTSTART:20260927T145900Z
 DTEND:20260927T145900Z
-DTSTAMP:20261109T050250Z
+DTSTAMP:20261110T062102Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 7 Countin
  g & Radixsort (마감)
 DTSTART:20261004T145900Z
 DTEND:20261004T145900Z
-DTSTAMP:20261109T050251Z
+DTSTAMP:20261110T062104Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Data structure r
  eview (마감)
 DTSTART:20261004T145900Z
 DTEND:20261004T145900Z
-DTSTAMP:20261109T050251Z
+DTSTAMP:20261110T062105Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 8-1 Dynam
  ic Programming (마감)
 DTSTART:20261004T145900Z
 DTEND:20261004T145900Z
-DTSTAMP:20261109T050252Z
+DTSTAMP:20261110T062105Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 8-2 Dynam
  ic Programming (마감)
 DTSTART:20261011T145900Z
 DTEND:20261011T145900Z
-DTSTAMP:20261109T050253Z
+DTSTAMP:20261110T062107Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 8-3 Dynam
  ic Programming (마감)
 DTSTART:20261011T145900Z
 DTEND:20261011T145900Z
-DTSTAMP:20261109T050254Z
+DTSTAMP:20261110T062107Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 8-4 Dynam
  ic Programming (마감)
 DTSTART:20261011T145900Z
 DTEND:20261011T145900Z
-DTSTAMP:20261109T050255Z
+DTSTAMP:20261110T062108Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 8-5 Dynam
  ic Programming (마감)
 DTSTART:20261011T145900Z
 DTEND:20261011T145900Z
-DTSTAMP:20261109T050255Z
+DTSTAMP:20261110T062109Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 9-1 greed
  y algorithms (마감)
 DTSTART:20261018T145900Z
 DTEND:20261018T145900Z
-DTSTAMP:20261109T050257Z
+DTSTAMP:20261110T062110Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 9-2 greed
  y algorithms (마감)
 DTSTART:20261018T145900Z
 DTEND:20261018T145900Z
-DTSTAMP:20261109T050257Z
+DTSTAMP:20261110T062111Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 10 Amorti
  zed analysis (마감)
 DTSTART:20261101T145900Z
 DTEND:20261101T145900Z
-DTSTAMP:20261109T050259Z
+DTSTAMP:20261110T062114Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 10-2 Amor
  tized analysis (마감)
 DTSTART:20261101T145900Z
 DTEND:20261101T145900Z
-DTSTAMP:20261109T050300Z
+DTSTAMP:20261110T062115Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 10-3 Amor
  tized analysis (마감)
 DTSTART:20261108T145900Z
 DTEND:20261108T145900Z
-DTSTAMP:20261109T050301Z
+DTSTAMP:20261110T062116Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 12-1 Elem
  entary Graph Algorithms (마감)
 DTSTART:20261108T145900Z
 DTEND:20261108T145900Z
-DTSTAMP:20261109T050302Z
+DTSTAMP:20261110T062117Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 12-2 Elem
  entary Graph Algorithms (마감)
 DTSTART:20261115T145900Z
 DTEND:20261115T145900Z
-DTSTAMP:20261109T050303Z
+DTSTAMP:20261110T062118Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 12-3 Elem
  entary Graph Algorithms (마감)
 DTSTART:20261115T145900Z
 DTEND:20261115T145900Z
-DTSTAMP:20261109T050304Z
+DTSTAMP:20261110T062119Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 12-4 Elem
  entary Graph Algorithms (마감)
 DTSTART:20261122T145900Z
 DTEND:20261122T145900Z
-DTSTAMP:20261109T050305Z
+DTSTAMP:20261110T062120Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 13  Disjo
  int Sets (마감)
 DTSTART:20261122T145900Z
 DTEND:20261122T145900Z
-DTSTAMP:20261109T050306Z
+DTSTAMP:20261110T062121Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 14. Minim
  um Spanning Trees (마감)
 DTSTART:20261129T145900Z
 DTEND:20261129T145900Z
-DTSTAMP:20261109T050307Z
+DTSTAMP:20261110T062122Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 15 shorte
  st path (마감)
 DTSTART:20261129T145900Z
 DTEND:20261129T145900Z
-DTSTAMP:20261109T050307Z
+DTSTAMP:20261110T062123Z
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[202620HY11961_알고리즘및문제해결기법] Review 16 Floyd-
  warshall (마감)
 DTSTART:20261206T145900Z
 DTEND:20261206T145900Z
-DTSTAMP:20261109T050309Z
+DTSTAMP:20261110T062125Z
 END:VEVENT
 END:VCALENDAR
